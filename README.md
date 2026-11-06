@@ -56,16 +56,16 @@
 
 ## 🚀 Featured Engineering Projects / Ausgewählte Projekte
 
-### 1. [🏢 Siemens-Cup 6-Car 10-Floor Elevator Group Control System (TIA Portal V18)](https://github.com/h491218554-creator/siemens-cup-elevator-group-control)
+### 1. [🏢 Siemens-Cup 6-Car 10-Floor Elevator Group Control System (TIA Portal V18)](https://github.com/guanxiang-he/siemens-cup-elevator-group-control)
 > **Role:** Team Leader (Logic Algorithm Track) · **Tech:** `Siemens S7-1500` · `TIA Portal V18` · `WinCC RT Advanced` · `S7-PLCSIM Advanced` · `VBScript`
 
 - **Multi-Car Dispatching & Minimum Waiting Time (`FB`/`FC`):** Designed a deterministic PLC group dispatcher evaluating real-time upward/downward stop counts (`停站次数计算`), turnaround floors, and estimated travel + dwell times (`最短时间计算`) across 6 elevators and 10 floors.
 - **Safety Interlocks & Peak Scheduling:** Implemented overload bypass (`超载`), all-car fire emergency recall to Floor 1 (`消防迫降`), single-car maintenance locking (`锁梯`), and ground-floor up-peak traffic scheduling (`高峰模式`).
 - **Full Source Code & 10-Chapter Engineering Guide:**
-  - 📦 [**Download TIA Portal V18 Project (`v1.0.0` Release `.zip`)**](https://github.com/h491218554-creator/siemens-cup-elevator-group-control/releases/tag/v1.0.0) | 📂 [**Browse `src/整合/整合.ap18`**](https://github.com/h491218554-creator/siemens-cup-elevator-group-control/tree/main/src/%E6%95%B4%E5%90%88)
-  - 📖 [**English Documentation (`README_EN.md`)**](https://github.com/h491218554-creator/siemens-cup-elevator-group-control/blob/main/README_EN.md) | 📘 [**中文完整图文教程（10 章 + 107 张原图）**](https://github.com/h491218554-creator/siemens-cup-elevator-group-control)
+  - 📦 [**Download TIA Portal V18 Project (`v1.0.0` Release `.zip`)**](https://github.com/guanxiang-he/siemens-cup-elevator-group-control/releases/tag/v1.0.0) | 📂 [**Browse `src/整合/整合.ap18`**](https://github.com/guanxiang-he/siemens-cup-elevator-group-control/tree/main/src/%E6%95%B4%E5%90%88)
+  - 📖 [**English Documentation (`README_EN.md`)**](https://github.com/guanxiang-he/siemens-cup-elevator-group-control/blob/main/README_EN.md) | 📘 [**中文完整图文教程（10 章 + 107 张原图）**](https://github.com/guanxiang-he/siemens-cup-elevator-group-control)
 
-### 2. [📓 Engineering & Scientific Computing Notes (`tech-notes`)](https://github.com/h491218554-creator/tech-notes)
+### 2. [📓 Engineering & Scientific Computing Notes (`tech-notes`)](https://github.com/guanxiang-he/tech-notes)
 > **Tech:** `MATLAB` · `Numerical Data Pipelines` · `Academic Research Workflows`
 
 - Practical guides on MATLAB data ingestion (`load`, `importdata`, `xlsread`, matrix construction) and structured AI-assisted literature review & mathematical modeling workflows for engineering master's theses.
@@ -86,4 +86,4 @@
 
 - 📍 **Location:** Stuttgart, Baden-Württemberg, Germany
 - 📧 **University Email:** [st203613@stud.uni-stuttgart.de](mailto:st203613@stud.uni-stuttgart.de)
-- 💻 **GitHub:** [github.com/h491218554-creator](https://github.com/h491218554-creator)
+- 💻 **GitHub:** [github.com/guanxiang-he](https://github.com/guanxiang-he)
