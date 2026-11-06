@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Guanxiang He (何冠翔) 👋
+# Hi there, I'm Guanxiang He (贺冠翔) 👋
 
 **M.Sc. Electrical Engineering & Information Technology @ Universität Stuttgart**  
 *Intelligent Sensor Systems · Hardware Verification & Messtechnik · Industrial Automation (PLC/HMI)*
